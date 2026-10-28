@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Raw Data
+data/
